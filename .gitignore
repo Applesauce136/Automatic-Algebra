@@ -1,0 +1,8 @@
+#.class files
+*.class
+
+#emacs backups, which I usually delete anyway
+*~
+
+#Testing files
+T_*.java
